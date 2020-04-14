@@ -4,7 +4,7 @@
   "description": "rafaela",
   "main": "index.js",
   "scripts": {
-     "start": "npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -20,5 +20,8 @@
   "homepage": "https://github.com/Rafaelam10/Teste#readme",
   "keywords": [
     "TOp"
-  ]
+  ],
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
